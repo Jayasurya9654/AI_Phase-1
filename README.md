@@ -147,7 +147,7 @@ Include instructions on how to install these dependencies, such as the use of a 
 
 ### Data Source
 
-The dataset used for this project is obtained from [Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/vedavyasv/usa-housing)) and is called "House Prices: 
+The dataset used for this project is obtained from [Kaggle]([https://www.kaggle.com/code/tamilmalart/ai-phase1/notebook)) and is called "House Prices: 
 
 Advanced Regression Techniques." You can download the dataset from [this link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code).
 
